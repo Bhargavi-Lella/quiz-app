@@ -21,7 +21,7 @@ This project is a **scalable REST API** built for a Quiz Application using **Mic
 
 - **Java**
 - **Spring Boot**
-- **Spring Cloud Netflix Eureka**
+- **Netflix Eureka**
 - **Feign Client**
 - **MySQL**
   
